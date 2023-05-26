@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dennwats&label=Profile%20views&color=0e75b6&style=flat" alt="dennwats" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dennwats" alt="dennwats" /></a> </p>
+
 - 🔭 I’m currently working on **DevOps**
 
 - 🌱 I’m currently learning **Python, Kubernetes, Docker, Terraform**
@@ -28,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dennwats&show_icons=true&locale=en&layout=compact" alt="dennwats" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dennwats&show_icons=true&locale=en" alt="dennwats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dennwats&" alt="dennwats" /></p>
