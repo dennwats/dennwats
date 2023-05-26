@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dennis Watson</h1>
 <h3 align="center">A passionate Cloud Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dennwats&label=Profile%20views&color=0e75b6&style=flat" alt="dennwats" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dennwats" alt="dennwats" /></a> </p>
-
 - 🔭 I’m currently working on **DevOps**
 
 - 🌱 I’m currently learning **Python, Kubernetes, Docker, Terraform**
@@ -23,8 +19,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dennwatson"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dennwatson" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dennwats&show_icons=true&locale=en&layout=compact" alt="dennwats" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dennwats&show_icons=true&locale=en" alt="dennwats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dennwats&" alt="dennwats" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dennwats&show_icons=true&locale=en&layout=compact" alt="dennwats" /></p>
